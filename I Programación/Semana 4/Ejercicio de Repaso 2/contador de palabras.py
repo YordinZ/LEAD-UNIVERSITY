@@ -47,7 +47,7 @@ def main():
     print(f"Cantidad de palabras únicas: {palabras_unicas}")
     print("\nTop 5 palabras más repetidas:")
     for palabra, freq in top5:
-        print(f"{palabra} -> {freq}")  # formato como tu ejemplo
+        print(f"{palabra} -> {freq}")
 
 if __name__ == "__main__":
     main()
