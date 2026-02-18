@@ -1,7 +1,7 @@
 import os
 import time
 
-def loading_bar(duration=3.0, width=30):
+def loading_bar(duration=3.0, width=30): # Función para mostrar una barra de carga animada
     start = time.time()
     end = start + duration
 

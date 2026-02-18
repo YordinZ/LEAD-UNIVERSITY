@@ -97,23 +97,62 @@ def main():
 
     imprimir_sopa_y_lista(grid, marcas, user_words, rnd_words)
 
+    encontradas_user = set()
+    encontradas_rnd = set()
+
     # BÚSQUEDA
     while True:
+        print("\n> Escribe 'resultados' para mostrar la sopa resuelta.")
         buscar = entrada("\n¿Qué palabra quieres buscar?: ").strip().upper()
 
         if buscar.lower() in ("salir", "exit"):
             break
 
+        if buscar.lower() == "resultados":
+            clear()
+            print("\nSOPA RESUELTA:\n")
+
+            for p in user_words:
+                marcar_palabra(grid, marcas, p, user_words, rnd_words)
+
+            for p in rnd_words:
+                marcar_palabra(grid, marcas, p, user_words, rnd_words)
+
+            imprimir_sopa_y_lista(grid, marcas, user_words, rnd_words)
+            print("\nJuego finalizado.")
+            break  # termina el while
+
+        if buscar not in user_words and buscar not in rnd_words:
+            print("❌ Esa palabra no está en la lista.")
+            pausar()
+            clear()
+            imprimir_sopa_y_lista(grid, marcas, user_words, rnd_words)
+            continue
+
         encontrada = marcar_palabra(grid, marcas, buscar, user_words, rnd_words)
 
         if encontrada:
-            print("✅ Palabra encontrada y marcada en la sopa.")
+            print("✅ Palabra encontrada y marcada.")
+
+            if buscar in user_words:
+                encontradas_user.add(buscar)
+            
+            elif buscar in rnd_words:
+                encontradas_rnd.add(buscar)
+
         else:
-            print("❌ Palabra no encontrada o no pertenece a la lista.")
+            print("❌ No encontrada en la sopa.")
 
         pausar()
         clear()
         imprimir_sopa_y_lista(grid, marcas, user_words, rnd_words)
+
+        if (len(encontradas_user) == len(user_words) and
+            len(encontradas_rnd) == len(rnd_words)):
+
+            print("\n🎉 ¡Felicidades! Has encontrado TODAS las palabras.")
+            print("El juego ha terminado automáticamente.")
+            break
 
 
 if __name__ == "__main__":

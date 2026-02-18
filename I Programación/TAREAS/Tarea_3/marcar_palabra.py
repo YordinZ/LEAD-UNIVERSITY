@@ -1,4 +1,4 @@
-def buscar_palabra_coords(grid, palabra):
+def buscar_palabra_coords(grid, palabra): # Busca las coordenadas de la palabra en la cuadrícula
     palabra = palabra.upper()
     n = len(grid)
 
@@ -33,7 +33,7 @@ def buscar_palabra_coords(grid, palabra):
 
     return None
 
-
+# Marca la palabra en la cuadrícula de marcas con el color correspondiente
 def marcar_palabra(grid, marcas, palabra, palabras_usuario, palabras_random):
     p = palabra.upper()
     coords = buscar_palabra_coords(grid, p)
