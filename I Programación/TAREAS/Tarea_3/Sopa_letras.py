@@ -118,5 +118,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#EJECUTAR: TAREAS/Tarea_3/python -m Tarea_3.Sopa_letras
+    
