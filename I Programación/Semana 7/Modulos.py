@@ -58,14 +58,14 @@ class Mascota:
         return len(self.__nombre)
 
     def hablar(self) -> None:
-        print(f"Guau/Miau 😄. Soy {self.__nombre} y soy una {self.__tipo}.")
+        print(f"Soy {self.__nombre} y soy una {self.__tipo}.")
 
 
 class Vehiculo:
     def __init__(self, marca: str, modelo: str, propietario=None):
         self.__marca = marca
         self.__modelo = modelo
-        self.__propietario = propietario  # ASOCIACIÓN (se puede asignar después)
+        self.__propietario = propietario  # ASOCIACIÓN: referencia a Persona, pero no es parte de su vida (pueden existir por separado)
 
     # --- getters ---
     def get_marca(self) -> str:
