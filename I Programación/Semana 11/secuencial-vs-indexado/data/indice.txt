@@ -1,0 +1,4 @@
+Ana,0
+Luis,1
+Maria,2
+Pedro,3
