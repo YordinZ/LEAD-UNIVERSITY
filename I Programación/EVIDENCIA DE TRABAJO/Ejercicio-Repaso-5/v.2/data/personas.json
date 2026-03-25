@@ -1,0 +1,22 @@
+[
+    {"nombre": "Ana Lopez", "salario": 850, "edad": 25, "peso": 55},
+    {"nombre": "Carlos Perez", "salario": 1200, "edad": 32, "peso": 78},
+    {"nombre": "Maria Gomez", "salario": 950, "edad": 29, "peso": 60},
+    {"nombre": "Luis Rodriguez", "salario": 1500, "edad": 40, "peso": 82},
+    {"nombre": "Sofia Hernandez", "salario": 1100, "edad": 35, "peso": 65},
+    {"nombre": "Jorge Ramirez", "salario": 980, "edad": 28, "peso": 75},
+    {"nombre": "Elena Castro", "salario": 1300, "edad": 38, "peso": 68},
+    {"nombre": "Miguel Torres", "salario": 1700, "edad": 45, "peso": 90},
+    {"nombre": "Laura Vargas", "salario": 920, "edad": 27, "peso": 58},
+    {"nombre": "Pedro Morales", "salario": 1400, "edad": 41, "peso": 85},
+    {"nombre": "Daniel Rojas", "salario": 1600, "edad": 39, "peso": 88},
+    {"nombre": "Andrea Salas", "salario": 1050, "edad": 30, "peso": 62},
+    {"nombre": "Fernando Chaves", "salario": 1800, "edad": 50, "peso": 92},
+    {"nombre": "Gabriela Solis", "salario": 990, "edad": 26, "peso": 57},
+    {"nombre": "Ricardo Mendez", "salario": 1550, "edad": 42, "peso": 86},
+    {"nombre": "Patricia Jimenez", "salario": 1150, "edad": 34, "peso": 63},
+    {"nombre": "Esteban Arias", "salario": 1250, "edad": 36, "peso": 79},
+    {"nombre": "Natalia Quesada", "salario": 1080, "edad": 31, "peso": 59},
+    {"nombre": "Oscar Pineda", "salario": 1650, "edad": 44, "peso": 91},
+    {"nombre": "Valeria Cordero", "salario": 1020, "edad": 28, "peso": 56}
+]
