@@ -1,11 +1,13 @@
-
-
 def buscar(nombre):
-    with open("data/secuencial.txt", "r", encoding="utf-8") as file:
-        for line in file:
-            persona = line.strip().split(",")
-            if persona[0] == nombre:
-                print("Encontrado:", persona)
-                break
+    diccionario = {}
+    with open("data/indice.txt", "r") as ind:
+        for linea in ind:
+            n, pos = linea.strip().split(",")
+            diccionario[n] = pos
 
-buscar("Pedro")
+    with open("data/indexado-ejemplo.txt", "r") as datos:
+        posicion = diccionario[nombre]
+        lineas = datos.readlines()
+        print(lineas[int(posicion)])
+
+buscar("Luis")
