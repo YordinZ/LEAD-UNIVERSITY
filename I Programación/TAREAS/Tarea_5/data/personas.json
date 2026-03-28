@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Yordin",
+    "telefono": "62581978",
+    "email": "borge.yordin@gmail.com",
+    "edad": 21,
+    "residencia": "Costa Rica"
+  },
+  {
+    "nombre": "Dyan",
+    "telefono": "63743050",
+    "email": "",
+    "edad": 21,
+    "residencia": "Nica"
+  }
+]
