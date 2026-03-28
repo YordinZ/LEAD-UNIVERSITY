@@ -128,7 +128,7 @@ def opcion_cargar():
     else:
         print(f"\n  {ROJO}Opción inválida.{RESET}"); pausar(); return
 
-    print()
+    print("\n")
     if df.empty:
         print(f"  {AMARILLO}El archivo {fuente} no existe o está vacío. "
               f"Se creará al agregar el primer contacto.{RESET}")
@@ -223,7 +223,7 @@ def opcion_eliminar_archivo():
         else:
             print(f"  {AMARILLO}No existe: {os.path.basename(ruta)}{RESET}")
 
-    print()
+    print("\n")
     confirmacion = input(f"  {ROJO}¿Confirmas la eliminación? (s/n): {RESET}").strip().lower()
     if confirmacion != 's':
         print(f"  {GRIS}Cancelado.{RESET}"); pausar(); return
