@@ -1,0 +1,4 @@
+class SaldoInsuficienteError(Exception):
+    pass
+
+
