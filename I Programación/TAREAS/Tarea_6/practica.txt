@@ -1,0 +1,23 @@
+SUMA 1
+19 + 81 = ___
+
+SUMA 2
+7 + 25 = ___
+
+RESTA 1
+23 - 67 = ___
+
+RESTA 2
+11 - 81 = ___
+
+MULTIPLICACION 1
+81 * 61 = ___
+
+MULTIPLICACION 2
+66 * 43 = ___
+
+DIVISION 1
+20 / 13 = ___
+
+DIVISION 2
+75 / 59 = ___

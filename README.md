@@ -1,6 +1,6 @@
 # 🎓 LEAD University — Repositorio Académico
 
-> Colección de tareas, ejercicios y proyectos desarrollados en la carrera de **Informática Empresarial** en LEAD University, Costa Rica.
+> Colección de tareas, ejercicios y proyectos desarrollados en la carrera de **Ingenieria en Ciencia de Datos** en LEAD University, Costa Rica.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![Universidad](https://img.shields.io/badge/LEAD-University-005EB8?style=flat)
