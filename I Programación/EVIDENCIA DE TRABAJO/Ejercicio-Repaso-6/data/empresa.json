@@ -1,0 +1,8 @@
+{
+    "empresa": "Acme Corp",
+    "pais": "Costa Rica",
+    "empleados": 150,
+    "activo": true,
+    "direccion": "San José, Costa Rica",
+    "telefono": "+506 2222-3333"
+}

@@ -1,0 +1,33 @@
+id,title,genre,price,esrb,consola,stock
+1,The Legend of Zelda Tears of the Kingdom,Aventura,69.99,E10+,Nintendo,12
+2,Super Mario Odyssey,Plataformas,59.99,E,Nintendo,10
+3,Mario Kart 8 Deluxe,Carreras,59.99,E,Nintendo,15
+4,Animal Crossing New Horizons,Simulacion,59.99,E,Nintendo,8
+5,Metroid Dread,Accion,59.99,T,Nintendo,6
+6,God of War Ragnarok,Accion,69.99,M,PS5,7
+7,Spider-Man 2,Accion,69.99,T,PS5,9
+8,Horizon Forbidden West,RPG,69.99,T,PS5,5
+9,Gran Turismo 7,Carreras,69.99,E,PS5,11
+10,Demon's Souls,RPG,69.99,M,PS5,4
+11,The Last of Us Part I,Accion,69.99,M,PS5,6
+12,Final Fantasy XVI,RPG,69.99,M,PS5,8
+13,Call of Duty Modern Warfare III,Shooter,69.99,M,XBOX,20
+14,Halo Infinite,Shooter,59.99,T,XBOX,14
+15,Forza Horizon 5,Carreras,59.99,E,XBOX,13
+16,Gears 5,Shooter,39.99,M,XBOX,7
+17,Starfield,RPG,69.99,M,XBOX,6
+18,Minecraft,Sandbox,29.99,E10+,XBOX,25
+19,Elden Ring,RPG,59.99,M,PS5,10
+20,Resident Evil 4 Remake,Terror,59.99,M,PS5,9
+21,Street Fighter 6,Peleas,59.99,T,PS5,12
+22,Tekken 8,Peleas,69.99,T,PS5,8
+23,FIFA 24,Deportes,69.99,E,XBOX,18
+24,NBA 2K24,Deportes,69.99,E,XBOX,16
+25,Pokemon Scarlet,RPG,59.99,E,Nintendo,14
+26,Pokemon Violet,RPG,59.99,E,Nintendo,13
+27,Kirby and the Forgotten Land,Plataformas,59.99,E,Nintendo,7
+28,Luigi's Mansion 3,Aventura,59.99,E,Nintendo,6
+29,Splatoon 3,Shooter,59.99,E10+,Nintendo,9
+30,Assassin's Creed Mirage,Accion,59.99,M,XBOX,5
+0,LOL,Aventura,0.0,RP,ps5,10
+41,FORNITE,Aventura,0.0,E,ps5,100

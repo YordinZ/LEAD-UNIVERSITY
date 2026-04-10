@@ -13,7 +13,8 @@
 LEAD-UNIVERSITY/
 ├── I Programación/
 │   ├── EVIDENCIA DE TRABAJO/
-│   ├── Semana 1 - 11/        # Ejercicios semanales
+│   ├── PROYECTO FINAL/
+│   ├── Semana 1 - 14/        # Ejercicios semanales
 │   ├── TAREAS/               # Tareas programadas
 │   └── requirements.txt
 ├── Introduccion a la programación/

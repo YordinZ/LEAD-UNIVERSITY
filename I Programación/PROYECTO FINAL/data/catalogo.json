@@ -1,0 +1,289 @@
+[
+    {
+        "id": "1",
+        "title": "The Legend of Zelda Tears of the Kingdom",
+        "genre": "Aventura",
+        "price": 69.99,
+        "esrb": "E10+",
+        "stock": 12,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "2",
+        "title": "Super Mario Odyssey",
+        "genre": "Plataformas",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 10,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "3",
+        "title": "Mario Kart 8 Deluxe",
+        "genre": "Carreras",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 15,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "4",
+        "title": "Animal Crossing New Horizons",
+        "genre": "Simulacion",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 8,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "5",
+        "title": "Metroid Dread",
+        "genre": "Accion",
+        "price": 59.99,
+        "esrb": "T",
+        "stock": 6,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "6",
+        "title": "God of War Ragnarok",
+        "genre": "Accion",
+        "price": 69.99,
+        "esrb": "M",
+        "stock": 7,
+        "consola": "PS5"
+    },
+    {
+        "id": "7",
+        "title": "Spider-Man 2",
+        "genre": "Accion",
+        "price": 69.99,
+        "esrb": "T",
+        "stock": 9,
+        "consola": "PS5"
+    },
+    {
+        "id": "8",
+        "title": "Horizon Forbidden West",
+        "genre": "RPG",
+        "price": 69.99,
+        "esrb": "T",
+        "stock": 5,
+        "consola": "PS5"
+    },
+    {
+        "id": "9",
+        "title": "Gran Turismo 7",
+        "genre": "Carreras",
+        "price": 69.99,
+        "esrb": "E",
+        "stock": 11,
+        "consola": "PS5"
+    },
+    {
+        "id": "10",
+        "title": "Demon's Souls",
+        "genre": "RPG",
+        "price": 69.99,
+        "esrb": "M",
+        "stock": 4,
+        "consola": "PS5"
+    },
+    {
+        "id": "11",
+        "title": "The Last of Us Part I",
+        "genre": "Accion",
+        "price": 69.99,
+        "esrb": "M",
+        "stock": 6,
+        "consola": "PS5"
+    },
+    {
+        "id": "12",
+        "title": "Final Fantasy XVI",
+        "genre": "RPG",
+        "price": 69.99,
+        "esrb": "M",
+        "stock": 8,
+        "consola": "PS5"
+    },
+    {
+        "id": "13",
+        "title": "Call of Duty Modern Warfare III",
+        "genre": "Shooter",
+        "price": 69.99,
+        "esrb": "M",
+        "stock": 20,
+        "consola": "XBOX"
+    },
+    {
+        "id": "14",
+        "title": "Halo Infinite",
+        "genre": "Shooter",
+        "price": 59.99,
+        "esrb": "T",
+        "stock": 14,
+        "consola": "XBOX"
+    },
+    {
+        "id": "15",
+        "title": "Forza Horizon 5",
+        "genre": "Carreras",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 13,
+        "consola": "XBOX"
+    },
+    {
+        "id": "16",
+        "title": "Gears 5",
+        "genre": "Shooter",
+        "price": 39.99,
+        "esrb": "M",
+        "stock": 7,
+        "consola": "XBOX"
+    },
+    {
+        "id": "17",
+        "title": "Starfield",
+        "genre": "RPG",
+        "price": 69.99,
+        "esrb": "M",
+        "stock": 6,
+        "consola": "XBOX"
+    },
+    {
+        "id": "18",
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "price": 29.99,
+        "esrb": "E10+",
+        "stock": 25,
+        "consola": "XBOX"
+    },
+    {
+        "id": "19",
+        "title": "Elden Ring",
+        "genre": "RPG",
+        "price": 59.99,
+        "esrb": "M",
+        "stock": 10,
+        "consola": "PS5"
+    },
+    {
+        "id": "20",
+        "title": "Resident Evil 4 Remake",
+        "genre": "Terror",
+        "price": 59.99,
+        "esrb": "M",
+        "stock": 9,
+        "consola": "PS5"
+    },
+    {
+        "id": "21",
+        "title": "Street Fighter 6",
+        "genre": "Peleas",
+        "price": 59.99,
+        "esrb": "T",
+        "stock": 12,
+        "consola": "PS5"
+    },
+    {
+        "id": "22",
+        "title": "Tekken 8",
+        "genre": "Peleas",
+        "price": 69.99,
+        "esrb": "T",
+        "stock": 8,
+        "consola": "PS5"
+    },
+    {
+        "id": "23",
+        "title": "FIFA 24",
+        "genre": "Deportes",
+        "price": 69.99,
+        "esrb": "E",
+        "stock": 18,
+        "consola": "XBOX"
+    },
+    {
+        "id": "24",
+        "title": "NBA 2K24",
+        "genre": "Deportes",
+        "price": 69.99,
+        "esrb": "E",
+        "stock": 16,
+        "consola": "XBOX"
+    },
+    {
+        "id": "25",
+        "title": "Pokemon Scarlet",
+        "genre": "RPG",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 14,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "26",
+        "title": "Pokemon Violet",
+        "genre": "RPG",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 13,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "27",
+        "title": "Kirby and the Forgotten Land",
+        "genre": "Plataformas",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 7,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "28",
+        "title": "Luigi's Mansion 3",
+        "genre": "Aventura",
+        "price": 59.99,
+        "esrb": "E",
+        "stock": 6,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "29",
+        "title": "Splatoon 3",
+        "genre": "Shooter",
+        "price": 59.99,
+        "esrb": "E10+",
+        "stock": 9,
+        "consola": "Nintendo"
+    },
+    {
+        "id": "30",
+        "title": "Assassin's Creed Mirage",
+        "genre": "Accion",
+        "price": 59.99,
+        "esrb": "M",
+        "stock": 5,
+        "consola": "XBOX"
+    },
+    {
+        "id": "0",
+        "title": "LOL",
+        "genre": "Aventura",
+        "price": 0.0,
+        "esrb": "",
+        "stock": 10,
+        "consola": "ps5"
+    },
+    {
+        "id": "100",
+        "title": "LOL2",
+        "genre": "aventura",
+        "price": 90.0,
+        "consola": "switch",
+        "stock": 1
+    }
+]
