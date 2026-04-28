@@ -274,7 +274,7 @@
         "title": "LOL",
         "genre": "Aventura",
         "price": 0.0,
-        "esrb": "",
+        "esrb": "RP",
         "stock": 10,
         "consola": "ps5"
     },
@@ -284,6 +284,16 @@
         "genre": "aventura",
         "price": 90.0,
         "consola": "switch",
-        "stock": 1
+        "stock": 1,
+        "esrb": "RP"
+    },
+    {
+        "id": "10000",
+        "title": "fifa",
+        "genre": "12deportes",
+        "price": 29.99,
+        "esrb": "E",
+        "consola": "ps5",
+        "stock": 25
     }
 ]
