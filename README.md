@@ -1,6 +1,6 @@
 # 🎓 LEAD University — Repositorio Académico
 
-> Colección de tareas, ejercicios y proyectos desarrollados en la carrera de **Ingenieria en Ciencia de Datos** en LEAD University, Costa Rica.
+> Colección de tareas, ejercicios y proyectos desarrollados en la carrera de **Ingeniería en Ciencia de Datos** en LEAD University, Costa Rica.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![Universidad](https://img.shields.io/badge/LEAD-University-005EB8?style=flat)
@@ -9,8 +9,12 @@
 ---
 
 ## 📁 Estructura del Repositorio
+
 ```
 LEAD-UNIVERSITY/
+├── Cálculo para Ciencia de Datos/
+├── Matemáticas para Ciencia de Datos/
+│   └── Proyecto Final/       # Análisis tipo de cambio colón-dólar (2018–2025)
 ├── I Programación/
 │   ├── EVIDENCIA DE TRABAJO/
 │   ├── PROYECTO FINAL/
@@ -26,6 +30,8 @@ LEAD-UNIVERSITY/
 
 | Curso | Contenido |
 |-------|-----------|
+| Cálculo para Ciencia de Datos | Ejercicios y proyectos de cálculo aplicado |
+| Matemáticas para Ciencia de Datos | Proyecto final: análisis y modelado del tipo de cambio USD/CRC |
 | I Programación | Ejercicios semanales, tareas y evidencias de trabajo |
 | Introducción a la Programación | Fundamentos del lenguaje Python |
 
@@ -34,9 +40,11 @@ LEAD-UNIVERSITY/
 - **Python 3.x** — Lenguaje principal
 - **pandas / NumPy** — Análisis de datos
 - **matplotlib / SymPy** — Visualización y matemática simbólica
+- **statsmodels** — Modelos de series de tiempo (ARIMA)
 - **Jupyter Notebooks** — Entornos de análisis interactivo
 
 ## 🚀 Uso
+
 ```bash
 # Clonar el repositorio
 git clone https://github.com/YordinZ/LEAD-UNIVERSITY.git
