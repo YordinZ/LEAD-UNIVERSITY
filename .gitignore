@@ -1,12 +1,23 @@
-# Python
+# Virtual environment
 venv/
 .venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
 
-# Streamlit / secrets
-**/secrets.toml
-**/.streamlit/secrets.toml
+# Jupyter
+.ipynb_checkpoints/
 
-# VS Code
+# Variables de entorno
+.env
+
+# IDEs
 .vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
