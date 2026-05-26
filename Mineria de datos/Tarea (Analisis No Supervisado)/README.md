@@ -1,6 +1,5 @@
-# 📊 Proyecto de Análisis de Datos
-
-Proyecto de análisis de datos con Python que utiliza `pandas`, `matplotlib` y scripts personalizados de datasets.
+# 📊 Análisis No Supervisado — Minería de Datos
+**LEAD University** · Curso: Minería de Datos
 
 ---
 
@@ -16,8 +15,8 @@ Proyecto de análisis de datos con Python que utiliza `pandas`, `matplotlib` y s
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/YordinZ/LEAD-UNIVERSITY.git
+cd "LEAD-UNIVERSITY/Mineria de datos/Tarea (Analisis No Supervisado)"
 ```
 
 ### 2. Crear el entorno virtual
@@ -42,29 +41,35 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+Si no existe un `requirements.txt`, instala manualmente:
+
+```bash
+pip install pandas matplotlib jupyter
+```
+
 ---
 
-## 📦 Dependencias principales
+## 📦 Librerías utilizadas
 
-| Librería | Descripción |
-|---|---|
-| `pandas` | Manipulación y análisis de datos |
-| `matplotlib` | Visualización de gráficos |
-| `importlib` | Importación dinámica de módulos |
-
-Los scripts personalizados `Dataset_1` y `Dataset_2` se encuentran en la carpeta `scripts/`.
+| Librería | Alias | Descripción |
+|---|---|---|
+| `pandas` | `pd` | Manipulación y análisis de datos |
+| `matplotlib.pyplot` | `plt` | Visualización de gráficos |
+| `importlib` | — | Importación dinámica de módulos |
+| `scripts.Dataset_1` | `gi` | Dataset personalizado #1 |
+| `scripts.Dataset_2` | `gii` | Dataset personalizado #2 |
 
 ---
 
 ## ▶️ Uso
 
-Una vez activo el entorno virtual y con las dependencias instaladas, abre el notebook:
+Con el entorno virtual activo, lanza Jupyter:
 
 ```bash
 jupyter notebook
 ```
 
-En la primera celda del notebook se configura el entorno:
+Abre el notebook principal. La primera celda configura el entorno automáticamente:
 
 ```python
 %matplotlib inline
@@ -82,8 +87,6 @@ warnings.filterwarnings('ignore')
 
 ## 🔄 Desactivar el entorno virtual
 
-Cuando termines de trabajar, desactiva el entorno con:
-
 ```bash
 deactivate
 ```
@@ -93,15 +96,13 @@ deactivate
 ## 📁 Estructura del proyecto
 
 ```
-tu-repositorio/
+Tarea (Analisis No Supervisado)/
 │
 ├── scripts/
 │   ├── Dataset_1.py
 │   └── Dataset_2.py
 │
-├── notebooks/
-│   └── analisis.ipynb
-│
+├── notebook.ipynb
 ├── requirements.txt
 └── README.md
 ```
@@ -110,14 +111,19 @@ tu-repositorio/
 
 ## 🛠️ Solución de problemas
 
-**El comando `python` no se reconoce:**
-Intenta usar `python3` en su lugar (común en macOS/Linux).
-
 **Error al importar `scripts.Dataset_1`:**
-Asegúrate de ejecutar el notebook desde la raíz del proyecto, no desde dentro de la carpeta `scripts/`.
+Asegúrate de ejecutar Jupyter desde la carpeta raíz de la tarea, no desde dentro de `scripts/`.
 
-**El entorno virtual no se activa en Windows:**
-Ejecuta primero este comando en PowerShell:
+**El comando `python` no se reconoce:**
+Usa `python3` en su lugar (común en macOS/Linux).
+
+**El entorno virtual no se activa en Windows (PowerShell):**
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
+---
+
+## 🔗 Repositorio
+
+[github.com/YordinZ/LEAD-UNIVERSITY](https://github.com/YordinZ/LEAD-UNIVERSITY)
