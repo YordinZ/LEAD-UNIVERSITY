@@ -13,97 +13,36 @@
 ```
 LEAD-UNIVERSITY/
 ├── Cálculo para Ciencia de Datos/
+│   └── Taller I/
 ├── Matemáticas para Ciencia de Datos/
-│   └── Proyecto Final/       # Análisis tipo de cambio colón-dólar (2018–2025)
+│   └── Proyecto Final/
 ├── Estructura de Datos/
 │   ├── Material de Trabajo/
 │   │   ├── clase-1/
-│   │   │   ├── abstraccion.py
-│   │   │   ├── busqueda_lineal.py
-│   │   │   ├── cola.py
-│   │   │   ├── comparacion.py
-│   │   │   ├── eficiente_efectivo.py
-│   │   │   ├── tipo_dato_abstracto.py
-│   │   │   └── tipos_datos.py
 │   │   ├── clase-2/
-│   │   │   ├── analisys-1.py
-│   │   │   ├── analisys-2.py
-│   │   │   ├── busqueda-binaria.py
-│   │   │   ├── merge-sort.py
-│   │   │   ├── o-grande-intro.py
-│   │   │   ├── o-grande-patrones-prestablecidos.py
-│   │   │   └── o-grande-patrones.py
 │   │   ├── clase-3/
-│   │   │   ├── bubble-sort.py
-│   │   │   ├── insertion-sort.py
-│   │   │   ├── merge-sort.py
-│   │   │   ├── o-grande-1.py
-│   │   │   ├── o-grande-2.py
-│   │   │   ├── o-grande-3.py
-│   │   │   ├── o-grande-4.py
-│   │   │   ├── quick-sort.py
-│   │   │   ├── selection-sort.py
-│   │   │   └── swap.py
 │   │   └── clase-4/
-│   │       ├── busqueda-binaria.py
-│   │       ├── busqueda-secuencial.py
-│   │       ├── dictionary.py
-│   │       ├── fibonacci_iterativo.py
-│   │       ├── fibonacci_recursivo.py
-│   │       ├── hash-search-collision.py
-│   │       ├── hash-search.py
-│   │       ├── jump-search.py
-│   │       ├── recursividad-1.py
-│   │       └── torres-hanoi.py
 │   └── Tareas/
 │       ├── Tarea Corta 1/
 │       └── Tarea Programada 1/
-│           └── pokemones.csv
 ├── I Programación/
+│   ├── EVIDENCIA DE TRABAJO/
 │   ├── PROYECTO FINAL/
-│   │   ├── proyecto.py
-│   │   └── tablero.txt
-│   ├── PY_CLASE_10/          # Tuplas
-│   │   ├── 1_definicion_tupla.py
-│   │   ├── 2_acceder_tupla.py
-│   │   ├── 3_modificar_tupla.py
-│   │   ├── 4_loops_tuplas.py
-│   │   ├── 5_metodos_tuplas.py
-│   │   ├── 6_input_tupla.py
-│   │   ├── ENTREGABLE.py
-│   │   ├── facundo.py
-│   │   └── tarea.py
-│   ├── PY_CLASE_11/          # Diccionarios y Sets
-│   │   ├── Set/
-│   │   │   ├── 1_crear_set.py
-│   │   │   ├── 2_agrego_set.py
-│   │   │   ├── 3_eliminar_set.py
-│   │   │   ├── 4_loop_set.py
-│   │   │   └── 5_strip.py
-│   │   ├── 1_definicion.py
-│   │   ├── 2_acceder_dic.py
-│   │   ├── 3_eliminar_elementos.py
-│   │   ├── 4_loop_dic.py
-│   │   └── ejemplo.py
-│   ├── PY_CLASE_12/          # Matrices y Funciones
-│   │   ├── 1_crear_matriz.py
-│   │   ├── 1_funciones.py
-│   │   ├── 2_funciones_paramentros.py
-│   │   ├── 2_llenar_matriz.py
-│   │   ├── 3_argumentos_arbitrarios.py
-│   │   ├── 3_sumatorio.py
-│   │   ├── 4_argumentos_palabra_clave.py
-│   │   ├── 5_parametros_predeterminados.py
-│   │   ├── 6_otros_elementos.py
-│   │   ├── 7_retun.py
-│   │   └── ejemplo.py
-│   ├── TAREA FINAL/
-│   │   └── EJERCICIOS/
-│   │       ├── ejercicio_01.py
-│   │       ├── ejercicio_02.py
-│   │       └── tarea_corta.py
+│   ├── Semana 1/ … Semana 14/
+│   ├── TAREAS/
 │   └── requirements.txt
 ├── Introduccion a la programación/
+│   ├── ARCHIVOS TXT/
+│   ├── EJERCICIOS/
+│   ├── PROYECTO FINAL/
+│   ├── PY_CLASE_10/
+│   ├── PY_CLASE_11/
+│   ├── PY_CLASE_12/
+│   └── TAREA FINAL/
+├── Mineria de datos/
+│   ├── Caso Discriminación de Género/
+│   ├── Tarea (Analisis No Supervisado)/
+│   └── Tarea (PCA)/
 ├── notas.md
 └── README.md
 ```
@@ -117,8 +56,9 @@ LEAD-UNIVERSITY/
 | Cálculo para Ciencia de Datos | Ejercicios y proyectos de cálculo aplicado |
 | Matemáticas para Ciencia de Datos | Proyecto final: análisis y modelado del tipo de cambio USD/CRC |
 | Estructura de Datos | Algoritmos de ordenamiento, búsqueda, recursividad, O grande, tareas programadas |
-| I Programación | Tuplas, diccionarios, sets, matrices, funciones, proyecto final y tarea final |
+| I Programación | Semanas de clase, evidencia de trabajo, proyecto final y tareas |
 | Introducción a la Programación | Fundamentos del lenguaje Python |
+| Minería de Datos | Análisis supervisado, no supervisado y PCA |
 
 ---
 
