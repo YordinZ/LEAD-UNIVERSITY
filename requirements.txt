@@ -62,3 +62,6 @@ vegafusion==2.0.3
 vegafusion-python-embed==1.6.9
 vl-convert-python==1.9.0.post1
 wcwidth==0.8.1
+torch
+torchvision
+torchaudio
