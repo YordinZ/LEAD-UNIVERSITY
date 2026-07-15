@@ -1,0 +1,151 @@
+{
+    "nombre": "Mapa Mundial de Street Fighter",
+    "dirigido": true,
+    "descripcion": "Cada vértice representa un país o zona asociada a personajes de Street Fighter. Cada arista representa una ruta dirigida entre escenarios.",
+    "vertices": [
+        "Japón",
+        "China",
+        "Tailandia",
+        "India",
+        "Estados Unidos",
+        "Brasil",
+        "México",
+        "Reino Unido",
+        "España",
+        "Francia",
+        "Italia",
+        "Rusia"
+    ],
+    "aristas": [
+        {
+            "origen": "Japón",
+            "destino": "China",
+            "peso": 4
+        },
+        {
+            "origen": "Japón",
+            "destino": "Estados Unidos",
+            "peso": 8
+        },
+        {
+            "origen": "China",
+            "destino": "Tailandia",
+            "peso": 3
+        },
+        {
+            "origen": "China",
+            "destino": "India",
+            "peso": 5
+        },
+        {
+            "origen": "Tailandia",
+            "destino": "India",
+            "peso": 4
+        },
+        {
+            "origen": "India",
+            "destino": "Rusia",
+            "peso": 9
+        },
+        {
+            "origen": "Estados Unidos",
+            "destino": "México",
+            "peso": 2
+        },
+        {
+            "origen": "Estados Unidos",
+            "destino": "Brasil",
+            "peso": 7
+        },
+        {
+            "origen": "México",
+            "destino": "Brasil",
+            "peso": 6
+        },
+        {
+            "origen": "Brasil",
+            "destino": "España",
+            "peso": 10
+        },
+        {
+            "origen": "España",
+            "destino": "Francia",
+            "peso": 2
+        },
+        {
+            "origen": "Francia",
+            "destino": "Reino Unido",
+            "peso": 3
+        },
+        {
+            "origen": "Reino Unido",
+            "destino": "Italia",
+            "peso": 4
+        },
+        {
+            "origen": "Italia",
+            "destino": "Rusia",
+            "peso": 7
+        },
+        {
+            "origen": "Rusia",
+            "destino": "Japón",
+            "peso": 11
+        },
+        {
+            "origen": "Tailandia",
+            "destino": "Estados Unidos",
+            "peso": 12
+        },
+        {
+            "origen": "Francia",
+            "destino": "Japón",
+            "peso": 13
+        },
+        {
+            "origen": "Brasil",
+            "destino": "India",
+            "peso": 14
+        },
+        {
+            "origen": "India",
+            "destino": "Estados Unidos",
+            "peso": 10
+        },
+        {
+            "origen": "Rusia",
+            "destino": "Reino Unido",
+            "peso": 6
+        },
+        {
+            "origen": "Italia",
+            "destino": "España",
+            "peso": 5
+        },
+        {
+            "origen": "Reino Unido",
+            "destino": "Francia",
+            "peso": 3
+        },
+        {
+            "origen": "México",
+            "destino": "Estados Unidos",
+            "peso": 2
+        },
+        {
+            "origen": "Brasil",
+            "destino": "México",
+            "peso": 6
+        },
+        {
+            "origen": "España",
+            "destino": "Brasil",
+            "peso": 10
+        },
+        {
+            "origen": "Estados Unidos",
+            "destino": "Japón",
+            "peso": 8
+        }
+    ]
+}
