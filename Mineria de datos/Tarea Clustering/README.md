@@ -16,7 +16,7 @@ tarea_clustering/
 │   └── analisis_dataset1_mall.ipynb
 ├── dataset2_penguins/
 │   └── analisis_dataset2_penguins.ipynb
-└── main.ipynb                    # índice del proyecto + conclusiones generales
+└── main.ipynb                    
 ```
 
 ## Pasos para arrancar
@@ -42,9 +42,3 @@ tarea_clustering/
 
 6. Volver a `main.ipynb` y llenar la sección de conclusiones generales
    comparando ambos datasets.
-
-## Notas de estilo
-
-Todos los markdowns usan HTML inline con la paleta naranja `#B85300` y
-tipografía Palatino Linotype, siguiendo el mismo criterio visual del resto
-de entregas del curso.
