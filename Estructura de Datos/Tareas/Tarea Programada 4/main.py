@@ -11,19 +11,12 @@ RUTA_JSON = os.path.join(DATA_DIR, "super_smash.json")
 
 
 # Códigos ANSI para colorear la salida en consola.
-# No uso librerías externas (colorama, etc.), solo códigos de escape.
 class Colores:
 
     RESET = "\033[0m"
-
     ROJO = "\033[1;31m"
-
-    # El negro puro no se ve en una terminal con fondo oscuro,
-    # así que lo muestro como texto negro sobre fondo gris claro.
     NEGRO = "\033[1;30;47m"
-
     GRIS = "\033[90m"
-
     NEGRITA = "\033[1m"
 
 
