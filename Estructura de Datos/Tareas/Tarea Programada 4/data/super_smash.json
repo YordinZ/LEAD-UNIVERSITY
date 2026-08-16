@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": "Mario",
+        "ataque": 80,
+        "defensa": 75,
+        "poder_especial": "Bola de Fuego"
+    },
+    {
+        "nombre": "Luigi",
+        "ataque": 75,
+        "defensa": 70,
+        "poder_especial": "Super Salto"
+    },
+    {
+        "nombre": "Peach",
+        "ataque": 68,
+        "defensa": 82,
+        "poder_especial": "Toad Protector"
+    },
+    {
+        "nombre": "Bowser",
+        "ataque": 98,
+        "defensa": 95,
+        "poder_especial": "Aliento de Fuego"
+    },
+    {
+        "nombre": "Donkey Kong",
+        "ataque": 94,
+        "defensa": 88,
+        "poder_especial": "Puño Gigante"
+    },
+    {
+        "nombre": "Link",
+        "ataque": 88,
+        "defensa": 80,
+        "poder_especial": "Flecha Ancestral"
+    },
+    {
+        "nombre": "Zelda",
+        "ataque": 72,
+        "defensa": 78,
+        "poder_especial": "Luz de Nayru"
+    },
+    {
+        "nombre": "Ganondorf",
+        "ataque": 100,
+        "defensa": 90,
+        "poder_especial": "Puño Oscuro"
+    },
+    {
+        "nombre": "Samus",
+        "ataque": 90,
+        "defensa": 85,
+        "poder_especial": "Rayo Cargado"
+    },
+    {
+        "nombre": "Kirby",
+        "ataque": 70,
+        "defensa": 65,
+        "poder_especial": "Copiar Habilidad"
+    },
+    {
+        "nombre": "Fox",
+        "ataque": 86,
+        "defensa": 72,
+        "poder_especial": "Bláster"
+    },
+    {
+        "nombre": "Pikachu",
+        "ataque": 84,
+        "defensa": 68,
+        "poder_especial": "Impactrueno"
+    },
+    {
+        "nombre": "Jigglypuff",
+        "ataque": 60,
+        "defensa": 58,
+        "poder_especial": "Canto"
+    },
+    {
+        "nombre": "Mewtwo",
+        "ataque": 95,
+        "defensa": 70,
+        "poder_especial": "Bola Sombra"
+    },
+    {
+        "nombre": "Captain Falcon",
+        "ataque": 92,
+        "defensa": 78,
+        "poder_especial": "Falcon Punch"
+    },
+    {
+        "nombre": "Yoshi",
+        "ataque": 82,
+        "defensa": 84,
+        "poder_especial": "Lanzahuevos"
+    },
+    {
+        "nombre": "Ness",
+        "ataque": 78,
+        "defensa": 72,
+        "poder_especial": "PK Flash"
+    },
+    {
+        "nombre": "Sonic",
+        "ataque": 85,
+        "defensa": 70,
+        "poder_especial": "Spin Dash"
+    },
+    {
+        "nombre": "Cloud",
+        "ataque": 96,
+        "defensa": 82,
+        "poder_especial": "Límite"
+    },
+    {
+        "nombre": "Sephiroth",
+        "ataque": 99,
+        "defensa": 76,
+        "poder_especial": "Supernova"
+    },
+    {
+        "nombre": "Meta Knight",
+        "ataque": 91,
+        "defensa": 79,
+        "poder_especial": "Mach Tornado"
+    },
+    {
+        "nombre": "King Dedede",
+        "ataque": 89,
+        "defensa": 94,
+        "poder_especial": "Martillazo Jet"
+    },
+    {
+        "nombre": "Ridley",
+        "ataque": 97,
+        "defensa": 81,
+        "poder_especial": "Plasma Oscuro"
+    },
+    {
+        "nombre": "Inkling",
+        "ataque": 78,
+        "defensa": 74,
+        "poder_especial": "Tinta Explosiva"
+    },
+    {
+        "nombre": "Pac-Man",
+        "ataque": 76,
+        "defensa": 77,
+        "poder_especial": "Super Pellet"
+    },
+    {
+        "nombre": "Mega Man",
+        "ataque": 87,
+        "defensa": 83,
+        "poder_especial": "Mega Buster"
+    },
+    {
+        "nombre": "Ryu",
+        "ataque": 93,
+        "defensa": 86,
+        "poder_especial": "Hadoken"
+    },
+    {
+        "nombre": "Ken",
+        "ataque": 92,
+        "defensa": 82,
+        "poder_especial": "Shoryuken"
+    },
+    {
+        "nombre": "Sora",
+        "ataque": 88,
+        "defensa": 75,
+        "poder_especial": "Ráfaga Mágica"
+    },
+    {
+        "nombre": "Steve",
+        "ataque": 83,
+        "defensa": 90,
+        "poder_especial": "Construcción de Bloques"
+    }
+]
